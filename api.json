@@ -1,0 +1,31 @@
+{
+  "usuarios": [
+    {
+      "nome_usuario": "joao123",
+      "informacoes": {
+        "numero_telefone": "+55 11 91234-5678",
+        "endereco": "Rua Exemplo, 123, São Paulo, SP",
+        "plano": "Premium",
+        "data_criado": "2022-05-15"
+      }
+    },
+    {
+      "nome_usuario": "ana456",
+      "informacoes": {
+        "numero_telefone": "+55 21 98765-4321",
+        "endereco": "Avenida Central, 456, Rio de Janeiro, RJ",
+        "plano": "Básico",
+        "data_criado": "2021-08-30"
+      }
+    },
+    {
+      "nome_usuario": "lucas789",
+      "informacoes": {
+        "numero_telefone": "+55 31 99876-5432",
+        "endereco": "Rua das Flores, 789, Belo Horizonte, MG",
+        "plano": "Pro",
+        "data_criado": "2023-01-12"
+      }
+    }
+  ]
+}
