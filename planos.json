@@ -1,0 +1,34 @@
+{
+  "planos": [
+    {
+      "nome": "Básico",
+      "descricao": "Plano com funcionalidades limitadas, ideal para quem está começando.",
+      "valor_mensal": 29.99,
+      "beneficios": [
+        "Acesso limitado a recursos",
+        "Suporte básico",
+      ]
+    },
+    {
+      "nome": "VIP",
+      "descricao": "Plano intermediário com mais funcionalidades e suporte dedicado.",
+      "valor_mensal": 79.99,
+      "beneficios": [
+        "Acesso completo a recursos",
+        "Suporte prioritário",
+        "Acesso a mais funções do bot"
+      ]
+    },
+    {
+      "nome": "Premium",
+      "descricao": "Plano avançado para empresas ou usuários que necessitam de recursos completos e suporte 24/7.",
+      "valor_mensal": 149.99,
+      "beneficios": [
+        "Acesso completo a todos os recursos",
+        "Suporte 24/7",
+        "Sem limite",
+        "Acesso a mais funções do bot"
+      ]
+    }
+  ]
+}
