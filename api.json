@@ -1,14 +1,3 @@
-[
-  {
-    "nome_usuario": "joao123",
-    "numero_telefone": "+55 11 91234-5678",
-    "endereco": "Rua Exemplo, 123, São Paulo, SP",
-    "plano": "Premium"
-  },
-  {
-    "nome_usuario": "ana456",
-    "numero_telefone": "+55 21 98765-4321",
-    "endereco": "Avenida Central, 456, Rio de Janeiro, RJ",
-    "plano": "Básico"
-  }
-]
+{
+  "mensagem": "teste"
+}
