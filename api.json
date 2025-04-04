@@ -1,3 +1,28 @@
 {
-  "mensagem": "teste"
+  "cidades": {
+    "sao_paulo": {
+      "temperatura": 25.3,
+      "descricao": "céu limpo",
+      "umidade": 60,
+      "vento": 3.5
+    },
+    "rio_de_janeiro": {
+      "temperatura": 28.1,
+      "descricao": "ensolarado",
+      "umidade": 55,
+      "vento": 4.2
+    },
+    "belo_horizonte": {
+      "temperatura": 22.4,
+      "descricao": "parcialmente nublado",
+      "umidade": 65,
+      "vento": 3.0
+    },
+    "curitiba": {
+      "temperatura": 18.9,
+      "descricao": "nublado",
+      "umidade": 70,
+      "vento": 2.8
+    }
+  }
 }
