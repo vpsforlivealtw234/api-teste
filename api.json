@@ -1,26 +1,6 @@
-[
-  {
-    "usuario": "João Silva",
-    "email": "joao.silva@email.com",
-    "plano": "Premium",
-    "data": "2025-04-04"
-  },
-  {
-    "usuario": "Erick Vinicios",
-    "email": "erick.vinicios@email.com",
-    "plano": "Gratis",
-    "data": "2025-02-04"
-  },
-  {
-    "usuario": "Maria Oliveira",
-    "email": "maria.oliveira@email.com",
-    "plano": "Básico",
-    "data": "2025-04-03"
-  },
-  {
-    "usuario": "Carlos Souza",
-    "email": "carlos.souza@email.com",
-    "plano": "Pro",
-    "data": "2025-04-02"
-  }
-]
+{
+  "nome": "João Silva",
+  "numero": "+554499461931",
+  "data_comprou": "2025-04-10",
+  "data_expira": "2026-04-10"
+}
