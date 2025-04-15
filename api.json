@@ -1,6 +1,7 @@
 {
-  "nome": "João Silva",
-  "numero": "5544994619",
-  "data_comprou": "2025-04-10",
-  "data_expira": "2026-04-10"
+  "clientes": [
+    { "nome": "João Silva", "numero": "554499461931" },
+    { "nome": "Maria Souza", "numero": "5511987654321" },
+    { "nome": "Pedro Lima", "numero": "5521999998888" }
+  ]
 }
