@@ -1,12 +1,10 @@
 {
   "numeros": [
     {
-      "numero": 554499461931,
-      "status": "on"
+      "numero": 554499461931
     },
     {
-      "numero": 554499999999,
-      "status": "off"
+      "numero": 556993884382
     }
   ]
 }
